@@ -33,7 +33,7 @@ $ npm install
 $ npm run dev
 ```
 
-##Run build bundle
+##Build bundle
 ```bash
 $ npm run build
 ```
