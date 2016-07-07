@@ -37,3 +37,11 @@ $ npm run dev
 ```bash
 $ npm run build
 ```
+
+## Add es5-shim/sham
+```html
+<!--[if lt IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-sham.min.js"></script>
+<![endif]-->
+```
